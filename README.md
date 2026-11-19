@@ -15,7 +15,7 @@ Personal portfolio website for **Kuyet Andrew**, a virtual assistant offering ad
 | File | Purpose |
 | --- | --- |
 | `index.html` | The whole website: Home, About, Services and Contact views, with all styles and scripts inside |
-| `cv.pdf` | Her CV, linked from the "Download CV" buttons |
+| `Kuyet_Andrew_Virtual_Assistant_CV.pdf` | Her CV, linked from the "Download CV" buttons |
 | `og.jpg` | Preview image shown when the link is shared on WhatsApp, LinkedIn and social media |
 | `README.md` | This file |
 
